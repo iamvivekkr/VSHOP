@@ -81,7 +81,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>LAMA.</Logo>
+          <Logo>VSHOP</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
